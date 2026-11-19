@@ -34,23 +34,23 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0031075686100106" />
-      <entry key="MS500" value="1.3381406713607835" />
-      <entry key="S2" value="2.409512316364208" />
-      <entry key="S5" value="3.4521894902275982" />
-      <entry key="S10" value="4.092231982818388" />
-      <entry key="S30" value="5.022554432421064" />
-      <entry key="S60" value="6.0231881336732656" />
-      <entry key="M2" value="7.097228449998582" />
-      <entry key="M5" value="8.104224299025116" />
-      <entry key="M10" value="8.52585034812493" />
-      <entry key="M15" value="8.677742267118344" />
-      <entry key="M30" value="8.835707421515902" />
-      <entry key="H1" value="8.917046481205588" />
-      <entry key="H2" value="8.958319358391815" />
-      <entry key="H4" value="8.979108446933157" />
-      <entry key="D1" value="8.996510936573312" />
-      <entry key="W1" value="8.999501387269676" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000012375392" />
+      <entry key="S60" value="1.0000945460900295" />
+      <entry key="M2" value="1.0281188371890775" />
+      <entry key="M5" value="1.8869004624352603" />
+      <entry key="M10" value="3.8204565897775242" />
+      <entry key="M15" value="5.150762555134072" />
+      <entry key="M30" value="7.110853863981842" />
+      <entry key="H1" value="8.415685724605979" />
+      <entry key="H2" value="9.169428640336513" />
+      <entry key="H4" value="9.574637882340342" />
+      <entry key="D1" value="9.927664766290649" />
+      <entry key="W1" value="9.989630530436909" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,23 +72,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8917022274249686" />
-      <entry key="MS500" value="1.30921584562958" />
-      <entry key="S2" value="2.3961698700114753" />
-      <entry key="S5" value="3.4440428192457326" />
-      <entry key="S10" value="4.087271520812923" />
-      <entry key="S30" value="5.019418020139927" />
-      <entry key="S60" value="6.019919179442084" />
-      <entry key="M2" value="7.094527192809873" />
-      <entry key="M5" value="8.102716673164503" />
-      <entry key="M10" value="8.525004518019019" />
-      <entry key="M15" value="8.677156074920088" />
-      <entry key="M30" value="8.835402673274828" />
-      <entry key="H1" value="8.916891096913908" />
-      <entry key="H2" value="8.95824090124593" />
-      <entry key="H4" value="8.979069025532928" />
-      <entry key="D1" value="8.996504339423556" />
-      <entry key="W1" value="8.99950044415877" />
+      <entry key="MS100" value="0.8950250709279725" />
+      <entry key="MS500" value="0.9780634734473393" />
+      <entry key="S2" value="0.9944701686732144" />
+      <entry key="S5" value="0.9977843871238888" />
+      <entry key="S10" value="0.9988915792636801" />
+      <entry key="S30" value="0.9996303910631437" />
+      <entry key="S60" value="0.9999096726107694" />
+      <entry key="M2" value="1.0280157195999484" />
+      <entry key="M5" value="1.8866985055026555" />
+      <entry key="M10" value="3.8201582949784627" />
+      <entry key="M15" value="5.150469843460919" />
+      <entry key="M30" value="7.11063693609768" />
+      <entry key="H1" value="8.415553421676982" />
+      <entry key="H2" value="9.16935555198594" />
+      <entry key="H4" value="9.574599466542933" />
+      <entry key="D1" value="9.92765809126527" />
+      <entry key="W1" value="9.9896295700232" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -115,6 +115,38 @@
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StudentDashBoard" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -129,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1795087915422</updated>
-      <workItem from="1795087916490" duration="1054000" />
+      <workItem from="1795087916490" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -155,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795088876119</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1795088990669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1795088990669</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +206,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/StudentDashBoard$main.coverage" NAME="main Coverage Results" MODIFIED="1795088960880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/StudentDashBoard$main.coverage" NAME="main Coverage Results" MODIFIED="1795089167082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
