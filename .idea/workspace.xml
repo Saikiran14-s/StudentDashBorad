@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f636d24-0c9a-49bf-b549-fe8ade9a4f48" name="Changes" comment="Initial commit" />
+    <list default="true" id="8f636d24-0c9a-49bf-b549-fe8ade9a4f48" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,61 +36,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000012375392" />
-      <entry key="S60" value="1.0000945460900295" />
-      <entry key="M2" value="1.0281188371890775" />
-      <entry key="M5" value="1.8869004624352603" />
-      <entry key="M10" value="3.8204565897775242" />
-      <entry key="M15" value="5.150762555134072" />
-      <entry key="M30" value="7.110853863981842" />
-      <entry key="H1" value="8.415685724605979" />
-      <entry key="H2" value="9.169428640336513" />
-      <entry key="H4" value="9.574637882340342" />
-      <entry key="D1" value="9.927664766290649" />
-      <entry key="W1" value="9.989630530436909" />
+      <entry key="MS100" value="1.0015537840191477" />
+      <entry key="MS500" value="1.2932988925958195" />
+      <entry key="S2" value="2.310427215622914" />
+      <entry key="S5" value="3.343428553855575" />
+      <entry key="S10" value="4.117824784904814" />
+      <entry key="S30" value="5.118372984477826" />
+      <entry key="S60" value="5.658843768620492" />
+      <entry key="M2" value="7.5571169790981765" />
+      <entry key="M5" value="17.198390759250383" />
+      <entry key="M10" value="35.86893008206895" />
+      <entry key="M15" value="53.419606160650986" />
+      <entry key="M30" value="89.15856676322171" />
+      <entry key="H1" value="120.76822685826063" />
+      <entry key="H2" value="142.281084650956" />
+      <entry key="H4" value="154.90807185127164" />
+      <entry key="D1" value="166.54175412349647" />
+      <entry key="W1" value="168.6460287244592" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S5" value="1.908466990081486E-150" />
+      <entry key="S10" value="1.381472761254858E-75" />
+      <entry key="S30" value="1.113872553421816E-25" />
+      <entry key="S60" value="3.3747266433888854E-13" />
+      <entry key="M2" value="6.388982962966667E-7" />
+      <entry key="M5" value="0.0044988601111408556" />
+      <entry key="M10" value="0.09262570061975135" />
+      <entry key="M15" value="0.2565124974804305" />
+      <entry key="M30" value="0.7142683029716889" />
+      <entry key="H1" value="1.1943792200089496" />
+      <entry key="H2" value="1.5452905986309806" />
+      <entry key="H4" value="1.7579280038141638" />
+      <entry key="D1" value="1.9574433652175602" />
+      <entry key="W1" value="1.9938640017015552" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8950250709279725" />
-      <entry key="MS500" value="0.9780634734473393" />
-      <entry key="S2" value="0.9944701686732144" />
-      <entry key="S5" value="0.9977843871238888" />
-      <entry key="S10" value="0.9988915792636801" />
-      <entry key="S30" value="0.9996303910631437" />
-      <entry key="S60" value="0.9999096726107694" />
-      <entry key="M2" value="1.0280157195999484" />
-      <entry key="M5" value="1.8866985055026555" />
-      <entry key="M10" value="3.8201582949784627" />
-      <entry key="M15" value="5.150469843460919" />
-      <entry key="M30" value="7.11063693609768" />
-      <entry key="H1" value="8.415553421676982" />
-      <entry key="H2" value="9.16935555198594" />
-      <entry key="H4" value="9.574599466542933" />
-      <entry key="D1" value="9.92765809126527" />
-      <entry key="W1" value="9.9896295700232" />
+      <entry key="MS100" value="0.9026605513039904" />
+      <entry key="MS500" value="1.2669319756496198" />
+      <entry key="S2" value="2.297630094140427" />
+      <entry key="S5" value="3.3319427158387858" />
+      <entry key="S10" value="4.099137481037018" />
+      <entry key="S30" value="5.097937901663721" />
+      <entry key="S60" value="5.643192884800137" />
+      <entry key="M2" value="7.540467271222115" />
+      <entry key="M5" value="17.180826027711802" />
+      <entry key="M10" value="35.92805752192376" />
+      <entry key="M15" value="53.636018526693974" />
+      <entry key="M30" value="89.83291533479064" />
+      <entry key="H1" value="121.9335213124322" />
+      <entry key="H2" value="143.80870080160096" />
+      <entry key="H4" value="156.6562421541005" />
+      <entry key="D1" value="168.49742988799616" />
+      <entry key="W1" value="170.63963656163085" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -100,22 +102,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Sample.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Python.Sample">
+    <configuration name="Sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StudentDashBoard" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="StudentDashBoard" />
       <option name="ENV_FILES" value="" />
@@ -143,6 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sample" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -162,6 +192,9 @@
       <option name="presentableId" value="Default" />
       <updated>1795087915422</updated>
       <workItem from="1795087916490" duration="1252000" />
+      <workItem from="1795365522334" duration="307000" />
+      <workItem from="1795408044872" duration="817000" />
+      <workItem from="1795605294662" duration="2519000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -195,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795088990669</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1795365548900</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1795365548900</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +247,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/StudentDashBoard$main.coverage" NAME="main Coverage Results" MODIFIED="1795089167082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/StudentDashBoard$Sample.coverage" NAME="Sample Coverage Results" MODIFIED="1795607728054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/StudentDashBoard$main.coverage" NAME="main Coverage Results" MODIFIED="1795606230284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
